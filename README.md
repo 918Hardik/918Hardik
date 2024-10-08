@@ -1,7 +1,7 @@
 ![MasterHead](https://binarapps.com/wp-content/uploads/2020/12/3.What-is-Full-Stack-Web-Development-.png)
 <h1 align="center">Hi 👋, I'm Hardik</h1>
 <h3 align="center">A passionate Full Stack Web developer from India</h3>
-<img align="right" alt="Coding" width="200" height="400" src="https://i.pinimg.com/originals/24/37/8d/24378d3680edd2ee5532f19530608fe5.gif">
+<img align="right" alt="Coding" width="350" height="400" src="https://i.pinimg.com/originals/24/37/8d/24378d3680edd2ee5532f19530608fe5.gif">
 
 - 🔭 I’m currently working on **Food Delivery App**
 
